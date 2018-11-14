@@ -1,5 +1,6 @@
 ---
 layout: home
+title:  Home
 ---
 
 ## [Software Engineering](./sw_eng/start.md)
