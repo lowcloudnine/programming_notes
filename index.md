@@ -1,20 +1,19 @@
 ---
 layout: home
-title: Programming Notes
 ---
 
-## [Software Engineering](./software_engineering/start.md)
+## [Software Engineering](./sw_eng/start.md)
 
 * [Software Development Procedures](software_engineering:sw_dev_procedures)
 * [Source Code Management](software_engineering:source_code_mgmnt)
 
-## [Languages](lang:start)
+## [Languages](./lang/start.md)
 
 * [Python](./lang/python.md)
-* [Web](lang:web:start)
-* [SQL](lang:sql:start)
-* [C/C++](lang:c:start)
-* [JVM and associated languages](lang:java:start)
+* [Web](./lang/web.md)
+* [SQL](./lang/sql.md)
+* [C/C++](./lang/ccplus.md)
+* [JVM and associated languages](./lang/java.md)
 
 ## [Tools](tools:start)
 
@@ -36,7 +35,7 @@ title: Programming Notes
 
 * [Ubuntu](http://www.ubuntu.com/) -- The OS I now use at work and home.
 * [Linux and other Un!x derivatives](lang:unix:start)
-* ['MWare Player']http://www.vmware.com/support/pubs/player_pubs.html) -- The Virtualization software I use on my laptop (my main computer) to run Linux and Unix.  Currently, I have VMs for Ubuntu and CentOS installed.  I also have installed in used several of the [[http://www.turnkeylinux.org|Turnkey Virtual Appliances]] successfully.
+* ['VMWare Player'](http://www.vmware.com/support/pubs/player_pubs.html) -- The Virtualization software I use on my laptop (my main computer) to run Linux and Unix.  Currently, I have VMs for Ubuntu and CentOS installed.  I also have installed and used several of the [Turnkey Virtual Appliances]([http://www.turnkeylinux.org) successfully.
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) -- An open source virtualization software currently owned by Oracle.  Used by Vagrant.
 
 ## [Projects](projects:start)
@@ -47,6 +46,6 @@ title: Programming Notes
 * [My Site](http://lowcloudnine.com/) -- This is a work in progress, only the scaffolding is up.
 * [GPCP to CSV](https://github.com/lowcloudnine/GPCP-to-CSV/tree/version-2) -- This simple program converts the Global Precipitation Climatology Projects model files into CSV files of various formats.
 
-##  [Advice](software_engineering:advice)
+##  [Advice](./sw_eng/advice.md)
 
-* [Finding Employment](software_engineering:employment)
+* [Finding Employment](./sw_eng/finding_employment.md)
