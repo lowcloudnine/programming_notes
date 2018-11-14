@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: page
 ---
 
 ## [Software Engineering](./sw_eng/start.md)
