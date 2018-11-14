@@ -3,8 +3,8 @@ email: lowcloudnine at hotmail dot com
 description: >- # this means to ignore newlines until "baseurl:"
   A place for links, notes, advice and procedures I use or have found useful.
 
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/programming_notes" # the subpath of your site, e.g. /blog
+url: "https://lowcloudnine.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lowcloudnine
 github_username:  lowcloudnine
 
