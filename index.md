@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## [Software Engineering](./sw_eng/start.md)
 
 * [Software Development Procedures](software_engineering:sw_dev_procedures)
