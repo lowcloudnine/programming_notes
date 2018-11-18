@@ -1,3 +1,12 @@
+---
+layout: default
+title: Python
+nav_order: 110
+has_children: false
+parent: lang
+permalink: /lang/python/
+---
+
 ====== Python ======
 
 ===== About =====

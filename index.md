@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Home
+nav_order: 1
 ---
 
 ## [Software Engineering](./sw_eng/start.md)
@@ -9,7 +11,7 @@ layout: default
 
 ## [Languages](./lang/start.md)
 
-* [Python](./lang/python.md)
+* [Python](docs/lang/python)
 * [Web](./lang/web.md)
 * [SQL](./lang/sql.md)
 * [C/C++](./lang/ccplus.md)
