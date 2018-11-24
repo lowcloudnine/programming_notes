@@ -52,7 +52,7 @@ function initSearch() {
     { source = s.src; }
   }
 
-  jsPath = source.replace('just-the-docs.js', '');
+  jsPath = source.replace('just-the-pages.js', '');
 
   jsonPath = jsPath + '/search-data.json';
 

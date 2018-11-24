@@ -11,7 +11,7 @@ nav_order: 1
 
 ## [Languages](./lang/start.md)
 
-* [Python](docs/lang/python)
+* [Python](pages/lang/python)
 * [Web](./lang/web.md)
 * [SQL](./lang/sql.md)
 * [C/C++](./lang/ccplus.md)
