@@ -1,7 +1,11 @@
 ---
-layout: default
 title: Home
-nav_order: 1
+tags: [home]
+keywords: programming, dev, python, notes, docs, documentation
+last_updated: November 24, 2018
+summary: "The home pages for my documentation site."
+sitebar: mydoc_sidebar
+permalink: index
 ---
 
 ## [Software Engineering](./sw_eng/start.md)
