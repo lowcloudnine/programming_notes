@@ -1,7 +1,9 @@
-_site
-.sass-cache
+_site/
+.sass-cache/
 .jekyll-metadata
+_pdf
 Gemfile.lock
 
+.DS_Store
 .idea/
 .ipynb_checkpoints/
